@@ -1,6 +1,6 @@
 # 🛒 E-commerce Admin Dashboard
 
-🔗 **Live Demo:** https://vercel.com/ask-elads-projects/ecom-dashboard
+🔗 **Live Demo:** https://ecom-dashboard-bice.vercel.app/
 🔐 **Demo Credentials:**  
 - Email: `admin@test.com`  
 - Password: `admin`
