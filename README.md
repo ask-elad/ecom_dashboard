@@ -1,9 +1,9 @@
 # 🛒 E-commerce Admin Dashboard
 
-🔗 **Live Demo:** https://ecom-dashboard-bice.vercel.app/
+🔗 **Live Demo:** [https://ecom-dashboard-bice.vercel.app/](https://ecommerce-admin-dashboard-ebwh.vercel.app/)
 🔐 **Demo Credentials:**  
 - Email: `admin@test.com`  
-- Password: `admin`
+- Password: `password123`
 
 A full-stack **E-commerce Admin Dashboard** built with **Next.js 14 (App Router)**.  
 The application provides a secure, server-side rendered interface for managing products, visualizing inventory data, and handling media assets using cloud services.
